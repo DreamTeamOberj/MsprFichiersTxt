@@ -7,4 +7,3 @@ kit
 lampe
 lacrymo
 matraque
-mousqueton
